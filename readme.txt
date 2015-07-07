@@ -1,4 +1,4 @@
-=== Blighty Explorer ===
+=== Blighty Notify ===
 Contributors: Blighty
 Tags: notification, email, page tracker
 Donate link: http://blighty.net/go/blighty-notify-plugin-paypal-donation/
